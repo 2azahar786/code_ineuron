@@ -6,10 +6,11 @@ import MainSection from './MainSection';
 
 const App = () => {
     return(
+        <div>
         <Head/>
-        // <MainSection/>
-       
-    )
+        <MainSection/>
+       </div>
+    );
 };
 
 
